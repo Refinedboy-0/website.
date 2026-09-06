@@ -379,17 +379,17 @@ const products = [
  },
  {
     id: 29,
-    name: "essence Lash Princess False Lash Effect Mascara",
-    category: "beauty-essentials",
+    name: "medicube PDRN Pink Peptide Serum",
+    category: "face-care",
     rating: 4.5,
-    description: "A black mascara with a conic fiber brush for defined lashes.",
-    details: "A classic black mascara with a distinctive fiber-brush format.",
-    features: ["Black mascara", "Conic fiber brush", "Vegan formula", "Cruelty-free brand"],
-    curatorNote: "A budget-friendly makeup essential with strong visual appeal.",
-    badge: "Best Seller",
+    description: "A pink glow serum formulated with PDRN, peptides, and niacinamide for hydrated, firm-looking skin.",
+    details: "A lightweight Korean skincare serum designed to improve hydration, uneven skin tone, elasticity, and overall skin radiance.",
+    features: ["Salmon DNA PDRN", "Five peptide complex", "Niacinamide", "Hydrating formula", "Helps improve uneven skin tone", "Korean skincare"],
+    curatorNote: "A standout Korean skincare serum for a hydrated, smoother, and more radiant-looking complexion.",
+    badge: "Editor's Pick",
     featured: true,
-    amazonUrl: "https://amzn.to/4zPXSzY",
-    image: "images/51LloWpF62L._SX522_.jpg"
+    amazonUrl: "https://amzn.to/4x5Z7sp",
+    image: "images/615DOoCI6xL._SX679_.jpg"
   },
   {
     id: 30,
