@@ -392,17 +392,17 @@ const products = [
     image: "images/615DOoCI6xL._SX679_.jpg"
   },
   {
-    id: 30,
-    name: "Maybelline Lash Sensational Sky High Mascara",
-    category: "beauty-essentials",
+   id: 30,
+    name: "medicube NAD EGF Firming Serum",
+    category: "face-care",
     rating: 4.5,
-    description: "A volumizing and lengthening mascara from Maybelline's Sky High line.",
-    details: "A black mascara with a flexible brush for a defined eye-makeup step.",
-    features: ["Black mascara", "Flexible brush", "Sky High line", "Eye-makeup essential"],
-    curatorNote: "A recognizable everyday makeup pick with broad appeal.",
-    badge: "Best Seller",
-    featured: false,
-    amazonUrl: "https://amzn.to/4ya2dfK",
-    image: "images/71MQo8pHmBL._SY450_.jpg"
+    description: "A firming serum formulated with NAD+, EGF, peptides, and collagen for smoother, firmer-looking skin.",
+    details: "A lightweight serum designed for the face and neck to improve the appearance of wrinkles, elasticity, pores, and uneven texture.",
+    features: ["NAD+", "EGF peptide", "Collagen complex", "Face and neck serum", "Helps improve skin elasticity", "Korean skincare"],
+    curatorNote: "A premium Korean skincare serum focused on firmness, elasticity, and a smoother-looking complexion.",
+    badge: "Editor's Pick",
+    featured: true,
+    amazonUrl: "https://amzn.to/4iOwrAu",
+    image: "images/61cVc9aspcL._AC_SX679_.jpg"
   },
 ];
