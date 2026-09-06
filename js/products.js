@@ -403,6 +403,6 @@ const products = [
     badge: "Editor's Pick",
     featured: true,
     amazonUrl: "https://amzn.to/4iOwrAu",
-    image: "images/Gemini_Generated_Image_aadu0daadu0daadu.jpg"  
+    image: "images/rojoffff.jpg.jpg"  
   },
 ];
