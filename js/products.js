@@ -365,19 +365,19 @@ const products = [
   },
   {
     id: 28,
-    name: "K18 Leave-In Molecular Repair Hair Mask",
-    category: "hair-scalp",
+    name: "The Ordinary Vitamin C Suspension 23% + HA Spheres 2%",
+    category: "face-care",
     rating: 4.5,
-    description: "A leave-in hair mask from K18's molecular repair range.",
-    details: "A leave-in treatment format for a more focused hair-care routine.",
-    features: ["Leave-in hair mask", "Molecular repair range", "Treatment format", "K18 hair care"],
-    curatorNote: "A premium standout for a higher-end hair-care section.",
+    description: "A high-strength vitamin C treatment formulated with 23% pure L-ascorbic acid and 2% hyaluronic acid spheres.",
+    details: "A water-free formula designed to brighten the appearance of dull skin and improve the look of uneven skin tone.",
+    features: ["23% Pure L-Ascorbic Acid", "2% Hyaluronic Acid Spheres", "Brightening treatment", "Helps improve uneven skin tone"],
+    curatorNote: "A high-strength vitamin C treatment for a brighter, more even-looking complexion.",
     badge: "Editor's Pick",
     featured: true,
-    amazonUrl: "https://amzn.to/4ye5pXJ",
+    amazonUrl: "https://amzn.to/3SIYczX",
     image: "images/71WKpWKG6kL._SX466_.jpg"
-  },
-  {
+ },
+ {
     id: 29,
     name: "essence Lash Princess False Lash Effect Mascara",
     category: "beauty-essentials",
@@ -388,8 +388,8 @@ const products = [
     curatorNote: "A budget-friendly makeup essential with strong visual appeal.",
     badge: "Best Seller",
     featured: true,
-    amazonUrl: "https://amzn.to/4deatmK",
-    image: "images/61K6cQhw4EL._SY450_.jpg"
+    amazonUrl: "https://amzn.to/4zPXSzY",
+    image: "images/51LloWpF62L._SX522_.jpg"
   },
   {
     id: 30,
